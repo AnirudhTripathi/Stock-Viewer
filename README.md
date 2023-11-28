@@ -2,8 +2,9 @@
 
 The Stock Viewer App is a mobile application built with Flutter that allows users to view stock information. The app uses the Polygon free tier API to fetch the required data for displaying stock details.
 
-<img src="https://github.com/AnirudhTripathi/Stock-Viewer/assets/89296975/dec18fae-68aa-47bb-bdf6-7cdad2af74b8" alt="Budget1 (1)" width="300" align = "center">
-
+<img src="https://github.com/AnirudhTripathi/Stock-Viewer/assets/89296975/dec18fae-68aa-47bb-bdf6-7cdad2af74b8" alt="Budget1 (1)" width="300" >
+<br>
+<br>
 https://github.com/AnirudhTripathi/Stock-Viewer/assets/89296975/e4524658-19aa-4ed3-ae39-903fd37ed6bd
 
 ## Features
